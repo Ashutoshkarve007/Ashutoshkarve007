@@ -40,7 +40,7 @@
 </p>
 
 <p align='center'>
-  Lets Learn STM32 Together <a href='https://github.com/Ashutoshkarve007/STM32_Learning'>Contribute in this Repo </a>
+  Let's Learn STM32 Together <a href='https://github.com/Ashutoshkarve007/STM32_Learning'>Contribute in this Repo </a>
 </p>
 
 <!-- <details align='center'>
