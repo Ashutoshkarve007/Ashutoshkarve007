@@ -42,7 +42,7 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='ashutoshkarve007@gmail.com'>ashutoshkarve007@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
@@ -54,17 +54,17 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Education**\
+📆 2017 - 2021\
+📍 **Electronics and Telecommunication** - Jspm NTC Pune, INDIA
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="[https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white](https://e7.pngegg.com/pngimages/526/258/png-clipart-batch-file-computer-icons-computer-file-ms-dos-cmd-icon-electronics-commandline-interface.png)" />
 
-- 👨‍💻 **Cross Mobile Developer**\
+- 👨‍💻 **Embedded Software**\
 📆 2021 - moment\
-📍 **Xp Inc** - São Paulo/SP, Brazil
+📍 **QuroLabs** - Narhe Pune, INDIA
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
