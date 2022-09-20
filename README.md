@@ -18,14 +18,12 @@
   <a href="https://instagram.com/ashutosh_karve_1998">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCG3aTa1NITAaUktrl-B-0tQ">
-    <img scr="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>&nbsp;&nbsp;
+
 </p>
 
 <p align='center'>
   <a href="https://www.youtube.com/channel/UCG3aTa1NITAaUktrl-B-0tQ">
-    <img scr="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
