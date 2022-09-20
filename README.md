@@ -45,7 +45,7 @@
   📫 How to reach me: <a href='ashutoshkarve007@gmail.com'>ashutoshkarve007@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
+  Welcome to contribute and grow.
 </p>
 
 <details>
