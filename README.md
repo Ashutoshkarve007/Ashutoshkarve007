@@ -20,7 +20,13 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCG3aTa1NITAaUktrl-B-0tQ">
     <img scr="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="https://www.youtube.com/channel/UCG3aTa1NITAaUktrl-B-0tQ">
+    <img scr="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
