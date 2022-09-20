@@ -40,7 +40,7 @@
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Lets Learn STM32 Together <a href='[https://stars.github.com/nominate/](https://github.com/Ashutoshkarve007/STM32_Learning)'>Contribute in this Repo </a>
 </p>
 
 <!-- <details align='center'>
