@@ -3,7 +3,9 @@
 <h1 align='center'>
   Hi there 👋 I'm Ashutosh 👨‍💻
   
-  <img width="481" alt="Capture" src="https://user-images.githubusercontent.com/89137956/191667598-80017ad3-c20e-4569-84e5-bbf3676326a7.PNG">
+  <img align="center" img width="1111" alt="Capture" src="https://user-images.githubusercontent.com/89137956/191668599-e0ec0c42-aa24-4441-b247-7b67921d6a73.PNG">
+
+    
 </h1>
 
 <p align='center'>
