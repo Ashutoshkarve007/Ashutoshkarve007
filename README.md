@@ -66,7 +66,7 @@
 
 ## Experience
 
-<img align="right" src="https://e7.pngegg.com/pngimages/526/258/png-clipart-batch-file-computer-icons-computer-file-ms-dos-cmd-icon-electronics-commandline-interface.png" />
+<img align="right" src="lhttps://e7.pngegg.com/pngimages/526/258/png-clipart-batch-file-computer-icons-computer-file-ms-dos-cmd-icon-electronics-commandline-interface.png" />
 
 - 👨‍💻 **Embedded Software**\
 📆 2021 - moment\
