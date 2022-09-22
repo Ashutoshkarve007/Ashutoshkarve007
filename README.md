@@ -66,10 +66,10 @@
 
 ## Experience
 
-<img align="right" src="[https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white](https://e7.pngegg.com/pngimages/526/258/png-clipart-batch-file-computer-icons-computer-file-ms-dos-cmd-icon-electronics-commandline-interface.png)" />
+<img align="right" src="https://e7.pngegg.com/pngimages/526/258/png-clipart-batch-file-computer-icons-computer-file-ms-dos-cmd-icon-electronics-commandline-interface.png" />
 
 - 👨‍💻 **Embedded Software**\
 📆 2021 - moment\
 📍 **QuroLabs** - Narhe Pune, INDIA
   
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
