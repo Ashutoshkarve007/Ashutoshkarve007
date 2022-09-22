@@ -1,4 +1,5 @@
 
+<img width="481" alt="Capture" src="https://user-images.githubusercontent.com/89137956/191667598-80017ad3-c20e-4569-84e5-bbf3676326a7.PNG">
 
 <h1 align='center'>
   Hi there 👋 I'm Ashutosh 👨‍💻
