@@ -1,12 +1,5 @@
 
 
-<h1 align='center'>
-  
-  <img align="center" img width="1111" alt="Capture" src="https://user-images.githubusercontent.com/89137956/191668599-e0ec0c42-aa24-4441-b247-7b67921d6a73.PNG">
-
-    
-</h1>
-
 <p align='center'>
   A Embedded software developer from India.
 </p>
