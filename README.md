@@ -1,8 +1,6 @@
+# 👨‍💻 Ashutosh Rajendra Karve
 
-
-<p align='center'>
-  A Embedded software developer from India.
-</p>
+**Embedded Firmware Engineer** from India working on ARM-based platforms, Linux device drivers, OpenBMC, Yocto, and RTOS. I specialize in building reliable real-time embedded systems with Embedded C/C++, Python, and experience across robotics, automation, and cloud-integrated IoT solutions.
 
 
 
@@ -14,6 +12,7 @@
   <a href="https://instagram.com/ashutosh_karve_1998">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+
 
 </p>
 
@@ -64,19 +63,47 @@
 <details>
   <summary>📃 Resume</summary>
 
+## 🔧 Skills
 
-## Education
+- Embedded C/C++, Python, Shell scripting
+- Linux Kernel Development, U-Boot, Yocto, Buildroot
+- Device Drivers (I2C, SPI, CAN, GPIO, UART)
+- STM32, ESP32, NXP, Raspberry Pi, Jetson Nano, AST2600
+- OpenBMC, FreeRTOS, ROS, OpenCV, Qt, PyQt5
+- Cloud & Networking: MQTT, Zigbee, GSM/4G, AWS IoT
 
-- 📖 **Education**\
-📆 2017 - 2021\
-📍 **Electronics and Telecommunication** - Jspm NTC Pune, INDIA
+## 📚 Education
 
-## Experience
+- M.Tech in Embedded Systems — BITS Pilani (2024–2026)- B.E. in Electronics & Telecommunication — JSPM NTC Pune (2017–2021)
 
-<img align="right" src="lhttps://e7.pngegg.com/pngimages/526/258/png-clipart-batch-file-computer-icons-computer-file-ms-dos-cmd-icon-electronics-commandline-interface.png" />
+## 🏢 Experience
 
-- 👨‍💻 **Embedded Software**\
-📆 2021 - moment\
-📍 **QuroLabs** - Narhe Pune, INDIA
+- **Vertiv Pvt. Ltd.** — Firmware Developer  Led OpenBMC customization (Raspberry Pi 4, AST2600), built Linux device drivers for NCUs, debugged kernel panics, validated builds via QEMU.
+
+- **Quro Labs** — Embedded Software Developer  Developed RTOS-based firmware (STM32, ESP32), IoT projects with Zigbee, GSM, OpenCV, ROS.
+
+- **Internships:** AGVs, vending machines, and robotics using ROS, STM32, Jetson Nano, Raspberry Pi.
+
+## 💻 Featured Projects
+
+- **OpenBMC Customization:** Integrated Gerrit patches for AST2600, simulated via QEMU
+- **Maritime IoT (RMA):** Zigbee mesh (STM32L), 4G gateway, SD card + cloud JSON logging
+- **AGVs:** OpenCV + Python on Pi, Jetson Nano + ROS + SLAM + LiDAR
+- **Netsure NCU:** Device drivers (CAN, I2C), LCD GUI in Qt
+
+## 🏆 Achievements
+
+- 2nd Prize – Vertiv Tech Demo
+- 3rd Prize – COEP MindSpark Campaign
+
+## 📫 Reach Me
+
+- Email: ashutoshkarve007@gmail.com
+- GitHub: [Ashutoshkarve007](https://github.com/Ashutoshkarve007)
+- YouTube: [My Tech Channel](https://www.youtube.com/channel/UCG3aTa1NITAaUktrl-B-0tQ)
+
+---
+
+> 🚀 “Let’s build embedded systems that talk to the cloud, navigate the world, and make machines smarter.”
   
 
